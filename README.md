@@ -19,6 +19,6 @@
 ## 整理说明
 
 - 此仓库暂只收录链接与简介。各项目保留自己的许可证、提交历史、Issue 和运行配置。
-- `daily_stock_analysis` 的 GitHub Actions 定时任务及仓库级密钥仍属于原 fork；迁移或删除它之前，需要单独核对任务和配置。
+- `daily_stock_analysis` 定义了 GitHub Actions 定时任务，并引用仓库级密钥；迁移或删除原 fork 前，需要核对任务是否在运行以及所需配置。
 - `TradingAgents-CN` 的部分目录有专有许可限制，`mnlm` 未见明确许可证；合并源码前需要核对可再分发范围。
 - 本索引不构成投资建议。
